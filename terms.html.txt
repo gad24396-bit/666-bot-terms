@@ -1,0 +1,26 @@
+# Terms of Service — 666 Bot
+
+**Last Updated:** October 19, 2026
+
+By inviting or using 666 Bot, you agree to these Terms of Service.
+
+**1. Use of the Bot**
+You agree to use the bot lawfully and in accordance with Discord's Terms of Service and Community Guidelines.
+
+**2. Acceptable Use**
+You may not use the bot to harass, threaten, scam, or harm other users. You may not exploit bugs or abuse the bot's functionality.
+
+**3. Availability**
+The bot is provided on an “as is” and “as available” basis. Features may change or become unavailable at any time.
+
+**4. Data and Privacy**
+The bot may process Discord user IDs, server IDs, and command data as necessary to operate. Do not submit sensitive personal information through the bot.
+
+**5. Termination**
+Access to the bot may be restricted or revoked for violations of these terms.
+
+**6. Changes**
+These terms may be updated at any time. Continued use of the bot constitutes acceptance of the updated terms.
+
+**7. Contact**
+For questions or support, contact the bot developer through the bot's official Discord support server.
